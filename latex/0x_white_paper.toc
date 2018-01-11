@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Existing Work}{4}{section.2}
+\contentsline {section}{\numberline {3}Specification}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Message Format}{6}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Point-to-point Orders}{6}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Broadcast Orders}{7}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Smart Contract}{9}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Signature Authentication}{9}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Fills \& Partial Fills}{9}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Expiration Time}{10}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Cancelling Orders}{10}{subsubsection.3.2.4}
+\contentsline {section}{\numberline {4}Protocol Token}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}Decentralized Governance}{11}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Continuous Integration}{11}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Token Registry}{12}{subsubsection.4.1.2}
+\contentsline {section}{\numberline {5}Summary}{13}{section.5}
+\contentsline {section}{\numberline {6}Acknowledgements}{14}{section.6}
+\contentsline {section}{\numberline {7}Appendix}{15}{section.7}
+\contentsline {subsection}{\numberline {7.1}ERC20 Token}{15}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Contract ABI}{15}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Ethereum Name Service}{15}{subsection.7.3}

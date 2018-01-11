@@ -1,0 +1,109 @@
+\begin{thebibliography}{10}
+
+\bibitem{coinmarketcap}
+{coinmarketcap}.
+\newblock
+  \href{https://coinmarketcap.com/all/views/all/}{https://coinmarketcap.com/all/views/all/}.
+\newblock Accessed: 2017-02-016.
+
+\bibitem{gox}
+{Wikipedia: Mt. Gox}.
+\newblock
+  \href{https://en.wikipedia.org/wiki/Mt.Gox}{https://en.wikipedia.org/wiki/Mt.Gox}.
+\newblock Accessed: 2017-02-016.
+
+\bibitem{shapeshift}
+{A Timeline: ShapeShift Hacking Incident}.
+\newblock
+  \href{https://info.shapeshift.io/blog/2016/04/19/timeline-shapeshift-hacking-incident}{https://info.shapeshift.io/blog/2016/04/19/timeline-shapeshift-hacking-incident}.
+\newblock Accessed: 2017-02-016.
+
+\bibitem{ww1}
+Will Warren.
+\newblock {The difference between App Coins and Protocol Tokens}.
+\newblock
+  \href{https://medium.com/@willwarren89/the-difference-between-app-coins-and-protocol-tokens-7281a428348c#.s98pjbf1o}{https://medium.com/@willwarren89},
+  2017.
+
+\bibitem{maker}
+{Maker Market}.
+\newblock \href{https://mkr.market/}{https://mkr.market/}.
+\newblock Accessed: 2017-02-01.
+
+\bibitem{etheropt}
+{EtherOpt}.
+\newblock \href{https://etheropt.github.io/}{https://etheropt.github.io/}.
+\newblock Accessed: 2017-02-01.
+
+\bibitem{augur}
+{Augur}.
+\newblock
+  \href{https://augur-dev.firebaseapp.com/}{https://augur-dev.firebaseapp.com/}.
+\newblock Accessed: 2017-02-01.
+
+\bibitem{itt}
+{Intrinsically Tradable Tokens}.
+\newblock
+  \href{https://www.reddit.com/r/ethereum/comments/5g0s8n/for_review_intrinsically_tradable_tokens_itts_are/}{https://www.reddit.com/r/ethereum/...}
+\newblock Accessed: 2017-02-01.
+
+\bibitem{euler}
+{Euler}.
+\newblock
+  \href{https://www.reddit.com/r/ethereum/comments/54l32y/euler_the_simplest_exchange_and_currency/}{https://www.reddit.com/r/ethereum/...}
+\newblock Accessed: 2017-02-01.
+
+\bibitem{bancor}
+Galia~Benartzi Guy~Benartzi, Eyal~Hertzog.
+\newblock Bancor protocol: A hierarchical monetary system and the foundation of
+  a global decentralized autonomous exchange.
+\newblock 2017.
+
+\bibitem{othman2013practical}
+Abraham Othman, David~M Pennock, Daniel~M Reeves, and Tuomas Sandholm.
+\newblock A practical liquidity-sensitive automated market maker.
+\newblock {\em ACM Transactions on Economics and Computation}, 1(3):14, 2013.
+
+\bibitem{raidex}
+{RaidEX}.
+\newblock \href{http://www.raidex.io/}{http://www.raidex.io/}.
+\newblock Accessed: 2017-02-014.
+
+\bibitem{jcoleman}
+Jeff Coleman.
+\newblock {State Channels}.
+\newblock
+  \href{http://www.jeffcoleman.ca/state-channels/}{http://www.jeffcoleman.ca/state-channels/}.
+\newblock Accessed: 2017-02-014.
+
+\bibitem{ledger}
+{Ledger Labs: State Channels Wiki}.
+\newblock
+  \href{https://github.com/ledgerlabs/state-channels/wiki}{https://github.com/ledgerlabs/state-channels/wiki}.
+\newblock Accessed: 2017-02-014.
+
+\bibitem{idex}
+{IDEX, Decentralized Capital}.
+\newblock \href{http://www.idex.market/}{http://www.idex.market/}.
+\newblock Accessed: 2017-02-01.
+
+\bibitem{etherdelta}
+{EtherDelta}.
+\newblock \href{https://etherdelta.github.io/}{https://etherdelta.github.io/}.
+\newblock Accessed: 2017-02-01.
+
+\bibitem{fe1}
+Fred Ehrsam.
+\newblock {App Coins and the dawn of the Decentralized Business Model}.
+\newblock
+  \href{https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.p1c3mywec}{https://blog.coinbase.com},
+  2016.
+
+\bibitem{fe2}
+Fred Ehrsam.
+\newblock {How to Raise Money on a Blockchain with a Token}.
+\newblock
+  \href{https://blog.gdax.com/how-to-raise-money-on-a-blockchain-with-a-token-510562c9cdfa#.311czaja1}{https://blog.gdax.com},
+  2016.
+
+\end{thebibliography}

@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 0x_white_paper.aux
+The style file: unsrt.bst
+Database file #1: mybib.bib
+Warning--empty journal in bancor
+You've used 18 entries,
+            1791 wiz_defined-function locations,
+            511 strings with 6095 characters,
+and the built_in function-call counts, 2187 in all, are:
+= -- 190
+> -- 46
+< -- 0
++ -- 27
+- -- 9
+* -- 26
+:= -- 284
+add.period$ -- 55
+call.type$ -- 18
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 97
+empty$ -- 322
+format.name$ -- 9
+if$ -- 545
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 2
+newline$ -- 94
+num.names$ -- 6
+pop$ -- 127
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 52
+stack$ -- 0
+substring$ -- 6
+swap$ -- 17
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 7
+width$ -- 20
+write$ -- 171
+(There was 1 warning)

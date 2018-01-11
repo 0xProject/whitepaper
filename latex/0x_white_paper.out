@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Existing Work}{}% 2
+\BOOKMARK [1][-]{section.3}{Specification}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Message Format}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Point-to-point Orders}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Broadcast Orders}{subsection.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Smart Contract}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Signature Authentication}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Fills \046 Partial Fills}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Expiration Time}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Cancelling Orders}{subsection.3.2}% 11
+\BOOKMARK [1][-]{section.4}{Protocol Token}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Decentralized Governance}{section.4}% 13
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Continuous Integration}{subsection.4.1}% 14
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Token Registry}{subsection.4.1}% 15
+\BOOKMARK [1][-]{section.5}{Summary}{}% 16
+\BOOKMARK [1][-]{section.6}{Acknowledgements}{}% 17
+\BOOKMARK [1][-]{section.7}{Appendix}{}% 18
+\BOOKMARK [2][-]{subsection.7.1}{ERC20 Token}{section.7}% 19
+\BOOKMARK [2][-]{subsection.7.2}{Contract ABI}{section.7}% 20
+\BOOKMARK [2][-]{subsection.7.3}{Ethereum Name Service}{section.7}% 21
